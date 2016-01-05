@@ -2,7 +2,7 @@
 /**
  * AccessPolicy
  *
- * Copyright 2016 by Zaenal Muttaqin <zaenal@lokamaya.com>
+ * Copyright 2016 by Zaenal Muttaqin <zaenal(#)lokamaya.com>
  *
  * A general purpose for checking resource permission
  *
